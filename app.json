@@ -1,14 +1,14 @@
 {
-    "name": "𝐓𝐞𝐱𝐭 Uploader 『Mendax",
+    "name": "𝐓𝐞𝐱𝐭 Uploader Itachi",
     "description": "Download videos from various websites using this telegram bot",
-    "logo": "https://graph.org/file/45f562dc05b2874c7277e.jpg",
+    "logo": "https://graph.org/Itachi-05-27-10",
     "keywords": [
         "text-video",
         "video-extract",
         "pyrogram"
     ],
-    "repository": "https://github.com/mohitbooraget/New_Txt_Random",
-    "success_url": "https://telegram.me/imendaxpublic",
+    "repository": "https://github.com/Johneygit/Itachi",
+    "success_url": "https://telegram.me/",
     "stack": "container",
     "env": {
         "API_ID": {
